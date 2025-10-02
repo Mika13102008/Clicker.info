@@ -1,0 +1,2 @@
+# Clicker.info
+Clicker Game
